@@ -2,7 +2,7 @@
   "name": "Galafilm",
   "version": "1.0.0",
   "type": "media",
-  "url": "https://galafilm.example.com",
+  "url": "https://raw.githubusercontent.com/Bega11vb01/cloudstream-extensions/main/Galafilm.cs3",
   "sites": [
     {
       "name": "WFilmizle",
@@ -19,57 +19,57 @@
       "type": "tv"
     },
     {
-      "name": "FilmifullHDizle",
+      "name": "Filmifullhdizle",
       "url": "https://filmifullhdizle.pro",
-      "search": "/arama?q={query}",
-      "load": "/film/{id}",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
       "type": "movie"
     },
     {
-      "name": "HDfilmcehennemi",
+      "name": "Hdfilmcehennemi",
       "url": "https://hdfilmcehennemi.pro",
       "search": "/search?q={query}",
-      "load": "/izle/{id}",
+      "load": "/movie/{id}",
       "type": "movie"
     },
     {
-      "name": "FullHDfilmizlesene",
+      "name": "Fullhdfilmizlesene",
       "url": "https://fullhdfilmizlesene.pw",
-      "search": "/arama?q={query}",
-      "load": "/film/{id}",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
       "type": "movie"
     },
     {
-      "name": "Selcukflix",
+      "name": "CizgiFilmSehri",
+      "url": "https://cizgifilmsehri.com",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "animation"
+    },
+    {
+      "name": "SelcukFlix",
       "url": "https://selcukflix.com",
       "search": "/search?q={query}",
       "load": "/movie/{id}",
       "type": "movie"
     },
     {
-      "name": "DiziPal",
-      "url": "https://dizipal609.com",
+      "name": "WatchFree",
+      "url": "https://watchfree.to",
       "search": "/search?q={query}",
-      "load": "/bolum/{id}",
-      "type": "tv"
+      "load": "/movie/{id}",
+      "type": "movie"
     },
     {
-      "name": "DiziWatch",
-      "url": "https://diziwatch.net",
-      "search": "/arama?q={query}",
-      "load": "/dizi/{id}",
-      "type": "tv"
-    },
-    {
-      "name": "DiziBOX",
-      "url": "https://dizibox.pro",
+      "name": "PrimeTimeMovies",
+      "url": "https://primetimemovies.com",
       "search": "/search?q={query}",
-      "load": "/episode/{id}",
-      "type": "tv"
+      "load": "/movie/{id}",
+      "type": "movie"
     },
     {
-      "name": "FilmGO",
-      "url": "https://filmgo.club",
+      "name": "GoStream",
+      "url": "https://gostream.site",
       "search": "/search?q={query}",
       "load": "/movie/{id}",
       "type": "movie"
