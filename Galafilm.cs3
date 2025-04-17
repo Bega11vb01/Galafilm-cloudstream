@@ -1,0 +1,78 @@
+{
+  "name": "Galafilm",
+  "version": "1.0.0",
+  "type": "media",
+  "url": "https://galafilm.example.com",
+  "sites": [
+    {
+      "name": "WFilmizle",
+      "url": "https://wfilmizle.tv",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "DiziYo",
+      "url": "https://diziyo.pub",
+      "search": "/search?q={query}",
+      "load": "/episode/{id}",
+      "type": "tv"
+    },
+    {
+      "name": "FilmifullHDizle",
+      "url": "https://filmifullhdizle.pro",
+      "search": "/arama?q={query}",
+      "load": "/film/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "HDfilmcehennemi",
+      "url": "https://hdfilmcehennemi.pro",
+      "search": "/search?q={query}",
+      "load": "/izle/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "FullHDfilmizlesene",
+      "url": "https://fullhdfilmizlesene.pw",
+      "search": "/arama?q={query}",
+      "load": "/film/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "Selcukflix",
+      "url": "https://selcukflix.com",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "DiziPal",
+      "url": "https://dizipal609.com",
+      "search": "/search?q={query}",
+      "load": "/bolum/{id}",
+      "type": "tv"
+    },
+    {
+      "name": "DiziWatch",
+      "url": "https://diziwatch.net",
+      "search": "/arama?q={query}",
+      "load": "/dizi/{id}",
+      "type": "tv"
+    },
+    {
+      "name": "DiziBOX",
+      "url": "https://dizibox.pro",
+      "search": "/search?q={query}",
+      "load": "/episode/{id}",
+      "type": "tv"
+    },
+    {
+      "name": "FilmGO",
+      "url": "https://filmgo.club",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    }
+  ]
+}
