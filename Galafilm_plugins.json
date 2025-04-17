@@ -1,7 +1,7 @@
 [
   {
     "name": "Galafilm",
-    "description": "Film, dizi ve çizgi film sitelerini barındıran Galafilm eklentisi.",
+    "description": "Galafilm eklentisi için film, dizi ve çizgi film kaynakları.",
     "version": "1.0.0",
     "url": "https://raw.githubusercontent.com/Bega11vb01/cloudstream-extensions/main/Galafilm.cs3",
     "languages": ["tr"],
