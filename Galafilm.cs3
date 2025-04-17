@@ -2,7 +2,8 @@
   "name": "Galafilm",
   "version": "1.0.0",
   "type": "media",
-  "url": "https://raw.githubusercontent.com/Bega11vb01/cloudstream-extensions/main/Galafilm.cs3",
+  "language": ["tr"],
+  "icon": "https://i.imgur.com/G0n3mPz.png",
   "sites": [
     {
       "name": "WFilmizle",
@@ -33,46 +34,46 @@
       "type": "movie"
     },
     {
-      "name": "Fullhdfilmizlesene",
+      "name": "FullHDizle",
       "url": "https://fullhdfilmizlesene.pw",
       "search": "/search?q={query}",
       "load": "/movie/{id}",
       "type": "movie"
     },
     {
-      "name": "CizgiFilmSehri",
-      "url": "https://cizgifilmsehri.com",
-      "search": "/search?q={query}",
-      "load": "/movie/{id}",
-      "type": "animation"
-    },
-    {
-      "name": "SelcukFlix",
+      "name": "Selcukflix",
       "url": "https://selcukflix.com",
-      "search": "/search?q={query}",
-      "load": "/movie/{id}",
+      "search": "/arama?q={query}",
+      "load": "/izle/{id}",
       "type": "movie"
     },
     {
-      "name": "WatchFree",
-      "url": "https://watchfree.to",
+      "name": "CizgiFilmSeyret",
+      "url": "https://cizgifilmseyret.net",
       "search": "/search?q={query}",
-      "load": "/movie/{id}",
+      "load": "/izle/{id}",
+      "type": "anime"
+    },
+    {
+      "name": "Dizipal",
+      "url": "https://dizipal498.com",
+      "search": "/ara?q={query}",
+      "load": "/dizi/{id}",
+      "type": "tv"
+    },
+    {
+      "name": "Filmgoo",
+      "url": "https://filmgoo.site",
+      "search": "/search?q={query}",
+      "load": "/film/{id}",
       "type": "movie"
     },
     {
-      "name": "PrimeTimeMovies",
-      "url": "https://primetimemovies.com",
+      "name": "FullDizi",
+      "url": "https://fulldiziizle.net",
       "search": "/search?q={query}",
-      "load": "/movie/{id}",
-      "type": "movie"
-    },
-    {
-      "name": "GoStream",
-      "url": "https://gostream.site",
-      "search": "/search?q={query}",
-      "load": "/movie/{id}",
-      "type": "movie"
+      "load": "/dizi/{id}",
+      "type": "tv"
     }
   ]
 }
