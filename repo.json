@@ -1,0 +1,8 @@
+{
+  "name": "Galafilm Repository",
+  "description": "Galafilm eklentisi için depo",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/kullaniciadi/Galafilm-cloudstream/main/plugins.json"
+  ]
+}
