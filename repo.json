@@ -1,8 +1,78 @@
 {
-  "name": "Galafilm Repository",
-  "description": "Galafilm eklentisi için depo",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/Bega11vb01/Galafilm-cloudstream/main/Galafilm_plugins.json"
+  "name": "Galafilm",
+  "version": "1.0.0",
+  "type": "media",
+  "url": "https://raw.githubusercontent.com/Bega11vb01/Galafilm-cloudstream/main/Galafilm.cs3",
+  "sites": [
+    {
+      "name": "WFilmizle",
+      "url": "https://wfilmizle.tv",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "DiziYo",
+      "url": "https://diziyo.pub",
+      "search": "/search?q={query}",
+      "load": "/episode/{id}",
+      "type": "tv"
+    },
+    {
+      "name": "Filmifullhdizle",
+      "url": "https://filmifullhdizle.pro",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "Hdfilmcehennemi",
+      "url": "https://hdfilmcehennemi.pro",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "Fullhdfilmizlesene",
+      "url": "https://fullhdfilmizlesene.pw",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "CizgiFilmSehri",
+      "url": "https://cizgifilmsehri.com",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "animation"
+    },
+    {
+      "name": "SelcukFlix",
+      "url": "https://selcukflix.com",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "WatchFree",
+      "url": "https://watchfree.to",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "PrimeTimeMovies",
+      "url": "https://primetimemovies.com",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "GoStream",
+      "url": "https://gostream.site",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    }
   ]
 }
