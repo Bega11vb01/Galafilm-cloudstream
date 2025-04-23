@@ -3,7 +3,7 @@
     "name": "Galafilm",
     "description": "Dizi, film ve çizgi film içerikleri sunan Cloudstream eklentisi.",
     "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/Bega11vb01/Galafilm-cloudstream/main/Galafilm.cs3",
+    "url": ""https://raw.githubusercontent.com/Bega11vb01/Galafilm-cloudstream/main/galafilm.cs3",
     "languages": ["tr"],
     "type": "media",
     "icon": "https://i.imgur.com/G0n3mPz.png"
