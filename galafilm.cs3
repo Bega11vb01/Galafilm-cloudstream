@@ -1,0 +1,77 @@
+{
+  "name": "Galafilm",
+  "version": "1.0.0",
+  "type": "media",
+  "sites": [
+    {
+      "name": "WFilmizle",
+      "url": "https://wfilmizle.tv",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      " "name": "DiziYo",
+      "url": "https://diziyo.pub",
+      "search": "/search?q={query}",
+      "load": "/episode/{id}",
+      "type": "tv"
+    },
+    {
+      "name": "Filmifullhdizle",
+      "url": "https://filmifullhdizle.pro",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "Hdfilmcehennemi",
+      "url": "https://hdfilmcehennemi.pro",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "Fullhdfilmizlesene",
+      "url": "https://fullhdfilmizlesene.pw",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "Selcukflix",
+      "url": "https://selcukflix.com",
+      "search": "/search?q={query}",
+      "load": "/watch/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "Cizgifilmseyret",
+      "url": "https://cizgifilmseyret.net",
+      "search": "/search?q={query}",
+      "load": "/watch/{id}",
+      "type": "anime"
+    },
+    {
+      "name": "Diziwatch",
+      "url": "https://diziwatch.net",
+      "search": "/ara?q={query}",
+      "load": "/dizi/{id}",
+      "type": "tv"
+    },
+    {
+      "name": "FilmGO",
+      "url": "https://filmgo.club",
+      "search": "/search?q={query}",
+      "load": "/movie/{id}",
+      "type": "movie"
+    },
+    {
+      "name": "Dizipal",
+      "url": "https://dizipal498.com",
+      "search": "/search?q={query}",
+      "load": "/bolum/{id}",
+      "type": "tv"
+    }
+  ]
+}
