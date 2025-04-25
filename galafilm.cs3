@@ -11,7 +11,7 @@
       "type": "movie"
     },
     {
-      " "name": "DiziYo",
+      "name": "DiziYo",
       "url": "https://diziyo.pub",
       "search": "/search?q={query}",
       "load": "/episode/{id}",
